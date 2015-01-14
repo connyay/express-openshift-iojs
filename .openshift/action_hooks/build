@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# Below are example commands that I normally run during a build.
-
 # Change home directory (bower puts a lot of cache and tmp directories here)
 HOME=$OPENSHIFT_REPO_DIR
 cd $OPENSHIFT_REPO_DIR
